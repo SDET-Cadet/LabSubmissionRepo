@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b81680dd-5523-46ba-a84c-93bd37c79d89": {
+      "ProjectGuid": "b81680dd-5523-46ba-a84c-93bd37c79d89",
+      "DisplayName": "File_IO_Demo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

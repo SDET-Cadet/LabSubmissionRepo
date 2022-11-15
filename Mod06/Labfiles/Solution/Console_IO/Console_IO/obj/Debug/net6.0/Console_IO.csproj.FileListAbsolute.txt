@@ -1,0 +1,15 @@
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod09\Labfiles\Solution\Console_IO\Console_IO\bin\Debug\net6.0\Console_IO.exe
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod09\Labfiles\Solution\Console_IO\Console_IO\bin\Debug\net6.0\Console_IO.deps.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod09\Labfiles\Solution\Console_IO\Console_IO\bin\Debug\net6.0\Console_IO.runtimeconfig.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod09\Labfiles\Solution\Console_IO\Console_IO\bin\Debug\net6.0\Console_IO.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod09\Labfiles\Solution\Console_IO\Console_IO\bin\Debug\net6.0\ref\Console_IO.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod09\Labfiles\Solution\Console_IO\Console_IO\bin\Debug\net6.0\Console_IO.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod09\Labfiles\Solution\Console_IO\Console_IO\obj\Debug\net6.0\Console_IO.csproj.AssemblyReference.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod09\Labfiles\Solution\Console_IO\Console_IO\obj\Debug\net6.0\Console_IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod09\Labfiles\Solution\Console_IO\Console_IO\obj\Debug\net6.0\Console_IO.AssemblyInfoInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod09\Labfiles\Solution\Console_IO\Console_IO\obj\Debug\net6.0\Console_IO.AssemblyInfo.cs
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod09\Labfiles\Solution\Console_IO\Console_IO\obj\Debug\net6.0\Console_IO.csproj.CoreCompileInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod09\Labfiles\Solution\Console_IO\Console_IO\obj\Debug\net6.0\Console_IO.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod09\Labfiles\Solution\Console_IO\Console_IO\obj\Debug\net6.0\ref\Console_IO.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod09\Labfiles\Solution\Console_IO\Console_IO\obj\Debug\net6.0\Console_IO.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod09\Labfiles\Solution\Console_IO\Console_IO\obj\Debug\net6.0\Console_IO.genruntimeconfig.cache
