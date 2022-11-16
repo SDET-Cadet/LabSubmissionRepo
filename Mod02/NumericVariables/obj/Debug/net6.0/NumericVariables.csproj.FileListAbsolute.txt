@@ -1,0 +1,15 @@
+D:\MyRepo\LabSubmissionRepo\Module2\NumericVariables\bin\Debug\net6.0\NumericVariables.exe
+D:\MyRepo\LabSubmissionRepo\Module2\NumericVariables\bin\Debug\net6.0\NumericVariables.deps.json
+D:\MyRepo\LabSubmissionRepo\Module2\NumericVariables\bin\Debug\net6.0\NumericVariables.runtimeconfig.json
+D:\MyRepo\LabSubmissionRepo\Module2\NumericVariables\bin\Debug\net6.0\NumericVariables.dll
+D:\MyRepo\LabSubmissionRepo\Module2\NumericVariables\bin\Debug\net6.0\ref\NumericVariables.dll
+D:\MyRepo\LabSubmissionRepo\Module2\NumericVariables\bin\Debug\net6.0\NumericVariables.pdb
+D:\MyRepo\LabSubmissionRepo\Module2\NumericVariables\obj\Debug\net6.0\NumericVariables.csproj.AssemblyReference.cache
+D:\MyRepo\LabSubmissionRepo\Module2\NumericVariables\obj\Debug\net6.0\NumericVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyRepo\LabSubmissionRepo\Module2\NumericVariables\obj\Debug\net6.0\NumericVariables.AssemblyInfoInputs.cache
+D:\MyRepo\LabSubmissionRepo\Module2\NumericVariables\obj\Debug\net6.0\NumericVariables.AssemblyInfo.cs
+D:\MyRepo\LabSubmissionRepo\Module2\NumericVariables\obj\Debug\net6.0\NumericVariables.csproj.CoreCompileInputs.cache
+D:\MyRepo\LabSubmissionRepo\Module2\NumericVariables\obj\Debug\net6.0\NumericVariables.dll
+D:\MyRepo\LabSubmissionRepo\Module2\NumericVariables\obj\Debug\net6.0\ref\NumericVariables.dll
+D:\MyRepo\LabSubmissionRepo\Module2\NumericVariables\obj\Debug\net6.0\NumericVariables.pdb
+D:\MyRepo\LabSubmissionRepo\Module2\NumericVariables\obj\Debug\net6.0\NumericVariables.genruntimeconfig.cache

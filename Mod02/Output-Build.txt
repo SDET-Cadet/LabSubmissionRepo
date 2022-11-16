@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: NumericVariables, Configuration: Debug Any CPU ------
+1>NumericVariables -> D:\Allfiles\Mod02\Labfiles\Solution\NumericVariables\NumericVariables\bin\Debug\net6.0\NumericVariables.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
