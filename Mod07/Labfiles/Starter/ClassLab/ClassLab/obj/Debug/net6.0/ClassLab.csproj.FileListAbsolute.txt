@@ -1,0 +1,15 @@
+D:\Allfiles\Mod07\Labfiles\Starter\ClassLab\ClassLab\bin\Debug\net6.0\ClassLab.exe
+D:\Allfiles\Mod07\Labfiles\Starter\ClassLab\ClassLab\bin\Debug\net6.0\ClassLab.deps.json
+D:\Allfiles\Mod07\Labfiles\Starter\ClassLab\ClassLab\bin\Debug\net6.0\ClassLab.runtimeconfig.json
+D:\Allfiles\Mod07\Labfiles\Starter\ClassLab\ClassLab\bin\Debug\net6.0\ClassLab.dll
+D:\Allfiles\Mod07\Labfiles\Starter\ClassLab\ClassLab\bin\Debug\net6.0\ref\ClassLab.dll
+D:\Allfiles\Mod07\Labfiles\Starter\ClassLab\ClassLab\bin\Debug\net6.0\ClassLab.pdb
+D:\Allfiles\Mod07\Labfiles\Starter\ClassLab\ClassLab\obj\Debug\net6.0\ClassLab.csproj.AssemblyReference.cache
+D:\Allfiles\Mod07\Labfiles\Starter\ClassLab\ClassLab\obj\Debug\net6.0\ClassLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Allfiles\Mod07\Labfiles\Starter\ClassLab\ClassLab\obj\Debug\net6.0\ClassLab.AssemblyInfoInputs.cache
+D:\Allfiles\Mod07\Labfiles\Starter\ClassLab\ClassLab\obj\Debug\net6.0\ClassLab.AssemblyInfo.cs
+D:\Allfiles\Mod07\Labfiles\Starter\ClassLab\ClassLab\obj\Debug\net6.0\ClassLab.csproj.CoreCompileInputs.cache
+D:\Allfiles\Mod07\Labfiles\Starter\ClassLab\ClassLab\obj\Debug\net6.0\ClassLab.dll
+D:\Allfiles\Mod07\Labfiles\Starter\ClassLab\ClassLab\obj\Debug\net6.0\ref\ClassLab.dll
+D:\Allfiles\Mod07\Labfiles\Starter\ClassLab\ClassLab\obj\Debug\net6.0\ClassLab.pdb
+D:\Allfiles\Mod07\Labfiles\Starter\ClassLab\ClassLab\obj\Debug\net6.0\ClassLab.genruntimeconfig.cache

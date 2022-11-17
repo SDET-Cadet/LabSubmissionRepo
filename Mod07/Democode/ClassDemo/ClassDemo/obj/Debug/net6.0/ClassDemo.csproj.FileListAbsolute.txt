@@ -1,0 +1,15 @@
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\ClassDemo\ClassDemo\bin\Debug\net6.0\ClassDemo.exe
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\ClassDemo\ClassDemo\bin\Debug\net6.0\ClassDemo.deps.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\ClassDemo\ClassDemo\bin\Debug\net6.0\ClassDemo.runtimeconfig.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\ClassDemo\ClassDemo\bin\Debug\net6.0\ClassDemo.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\ClassDemo\ClassDemo\bin\Debug\net6.0\ref\ClassDemo.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\ClassDemo\ClassDemo\bin\Debug\net6.0\ClassDemo.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\ClassDemo\ClassDemo\obj\Debug\net6.0\ClassDemo.csproj.AssemblyReference.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\ClassDemo\ClassDemo\obj\Debug\net6.0\ClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\ClassDemo\ClassDemo\obj\Debug\net6.0\ClassDemo.AssemblyInfoInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\ClassDemo\ClassDemo\obj\Debug\net6.0\ClassDemo.AssemblyInfo.cs
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\ClassDemo\ClassDemo\obj\Debug\net6.0\ClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\ClassDemo\ClassDemo\obj\Debug\net6.0\ClassDemo.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\ClassDemo\ClassDemo\obj\Debug\net6.0\ref\ClassDemo.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\ClassDemo\ClassDemo\obj\Debug\net6.0\ClassDemo.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\ClassDemo\ClassDemo\obj\Debug\net6.0\ClassDemo.genruntimeconfig.cache

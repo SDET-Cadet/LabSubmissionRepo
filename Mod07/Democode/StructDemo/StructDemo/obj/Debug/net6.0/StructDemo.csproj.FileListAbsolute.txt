@@ -1,0 +1,15 @@
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\StructDemo\StructDemo\bin\Debug\net6.0\StructDemo.exe
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\StructDemo\StructDemo\bin\Debug\net6.0\StructDemo.deps.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\StructDemo\StructDemo\bin\Debug\net6.0\StructDemo.runtimeconfig.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\StructDemo\StructDemo\bin\Debug\net6.0\StructDemo.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\StructDemo\StructDemo\bin\Debug\net6.0\ref\StructDemo.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\StructDemo\StructDemo\bin\Debug\net6.0\StructDemo.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\StructDemo\StructDemo\obj\Debug\net6.0\StructDemo.csproj.AssemblyReference.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\StructDemo\StructDemo\obj\Debug\net6.0\StructDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\StructDemo\StructDemo\obj\Debug\net6.0\StructDemo.AssemblyInfoInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\StructDemo\StructDemo\obj\Debug\net6.0\StructDemo.AssemblyInfo.cs
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\StructDemo\StructDemo\obj\Debug\net6.0\StructDemo.csproj.CoreCompileInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\StructDemo\StructDemo\obj\Debug\net6.0\StructDemo.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\StructDemo\StructDemo\obj\Debug\net6.0\ref\StructDemo.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\StructDemo\StructDemo\obj\Debug\net6.0\StructDemo.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\StructDemo\StructDemo\obj\Debug\net6.0\StructDemo.genruntimeconfig.cache

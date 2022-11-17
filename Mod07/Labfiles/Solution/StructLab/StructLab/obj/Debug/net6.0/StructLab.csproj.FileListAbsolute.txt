@@ -1,0 +1,14 @@
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\StructLab\StructLab\bin\Debug\net6.0\StructLab.exe
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\StructLab\StructLab\bin\Debug\net6.0\StructLab.deps.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\StructLab\StructLab\bin\Debug\net6.0\StructLab.runtimeconfig.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\StructLab\StructLab\bin\Debug\net6.0\StructLab.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\StructLab\StructLab\bin\Debug\net6.0\ref\StructLab.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\StructLab\StructLab\bin\Debug\net6.0\StructLab.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\StructLab\StructLab\obj\Debug\net6.0\StructLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\StructLab\StructLab\obj\Debug\net6.0\StructLab.AssemblyInfoInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\StructLab\StructLab\obj\Debug\net6.0\StructLab.AssemblyInfo.cs
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\StructLab\StructLab\obj\Debug\net6.0\StructLab.csproj.CoreCompileInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\StructLab\StructLab\obj\Debug\net6.0\StructLab.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\StructLab\StructLab\obj\Debug\net6.0\ref\StructLab.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\StructLab\StructLab\obj\Debug\net6.0\StructLab.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\StructLab\StructLab\obj\Debug\net6.0\StructLab.genruntimeconfig.cache

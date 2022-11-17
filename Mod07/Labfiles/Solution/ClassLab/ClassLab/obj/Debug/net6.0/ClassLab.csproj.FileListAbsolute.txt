@@ -1,0 +1,14 @@
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\ClassLab\ClassLab\bin\Debug\net6.0\ClassLab.exe
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\ClassLab\ClassLab\bin\Debug\net6.0\ClassLab.deps.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\ClassLab\ClassLab\bin\Debug\net6.0\ClassLab.runtimeconfig.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\ClassLab\ClassLab\bin\Debug\net6.0\ClassLab.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\ClassLab\ClassLab\bin\Debug\net6.0\ref\ClassLab.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\ClassLab\ClassLab\bin\Debug\net6.0\ClassLab.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\ClassLab\ClassLab\obj\Debug\net6.0\ClassLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\ClassLab\ClassLab\obj\Debug\net6.0\ClassLab.AssemblyInfoInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\ClassLab\ClassLab\obj\Debug\net6.0\ClassLab.AssemblyInfo.cs
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\ClassLab\ClassLab\obj\Debug\net6.0\ClassLab.csproj.CoreCompileInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\ClassLab\ClassLab\obj\Debug\net6.0\ClassLab.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\ClassLab\ClassLab\obj\Debug\net6.0\ref\ClassLab.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\ClassLab\ClassLab\obj\Debug\net6.0\ClassLab.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod06\Labfiles\Solution\ClassLab\ClassLab\obj\Debug\net6.0\ClassLab.genruntimeconfig.cache

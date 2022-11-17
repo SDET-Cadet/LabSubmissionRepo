@@ -1,0 +1,15 @@
+D:\Allfiles\Mod07\Labfiles\Starter\StructLab\StructLab\bin\Debug\net6.0\StructLab.exe
+D:\Allfiles\Mod07\Labfiles\Starter\StructLab\StructLab\bin\Debug\net6.0\StructLab.deps.json
+D:\Allfiles\Mod07\Labfiles\Starter\StructLab\StructLab\bin\Debug\net6.0\StructLab.runtimeconfig.json
+D:\Allfiles\Mod07\Labfiles\Starter\StructLab\StructLab\bin\Debug\net6.0\StructLab.dll
+D:\Allfiles\Mod07\Labfiles\Starter\StructLab\StructLab\bin\Debug\net6.0\ref\StructLab.dll
+D:\Allfiles\Mod07\Labfiles\Starter\StructLab\StructLab\bin\Debug\net6.0\StructLab.pdb
+D:\Allfiles\Mod07\Labfiles\Starter\StructLab\StructLab\obj\Debug\net6.0\StructLab.csproj.AssemblyReference.cache
+D:\Allfiles\Mod07\Labfiles\Starter\StructLab\StructLab\obj\Debug\net6.0\StructLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Allfiles\Mod07\Labfiles\Starter\StructLab\StructLab\obj\Debug\net6.0\StructLab.AssemblyInfoInputs.cache
+D:\Allfiles\Mod07\Labfiles\Starter\StructLab\StructLab\obj\Debug\net6.0\StructLab.AssemblyInfo.cs
+D:\Allfiles\Mod07\Labfiles\Starter\StructLab\StructLab\obj\Debug\net6.0\StructLab.csproj.CoreCompileInputs.cache
+D:\Allfiles\Mod07\Labfiles\Starter\StructLab\StructLab\obj\Debug\net6.0\StructLab.dll
+D:\Allfiles\Mod07\Labfiles\Starter\StructLab\StructLab\obj\Debug\net6.0\ref\StructLab.dll
+D:\Allfiles\Mod07\Labfiles\Starter\StructLab\StructLab\obj\Debug\net6.0\StructLab.pdb
+D:\Allfiles\Mod07\Labfiles\Starter\StructLab\StructLab\obj\Debug\net6.0\StructLab.genruntimeconfig.cache
