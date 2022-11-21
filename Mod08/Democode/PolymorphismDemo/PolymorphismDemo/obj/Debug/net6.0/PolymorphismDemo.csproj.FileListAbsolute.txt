@@ -1,0 +1,15 @@
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\PolymorphismDemo\PolymorphismDemo\bin\Debug\net6.0\PolymorphismDemo.exe
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\PolymorphismDemo\PolymorphismDemo\bin\Debug\net6.0\PolymorphismDemo.deps.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\PolymorphismDemo\PolymorphismDemo\bin\Debug\net6.0\PolymorphismDemo.runtimeconfig.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\PolymorphismDemo\PolymorphismDemo\bin\Debug\net6.0\PolymorphismDemo.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\PolymorphismDemo\PolymorphismDemo\bin\Debug\net6.0\ref\PolymorphismDemo.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\PolymorphismDemo\PolymorphismDemo\bin\Debug\net6.0\PolymorphismDemo.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\PolymorphismDemo\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.csproj.AssemblyReference.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\PolymorphismDemo\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\PolymorphismDemo\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.AssemblyInfoInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\PolymorphismDemo\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.AssemblyInfo.cs
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\PolymorphismDemo\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.csproj.CoreCompileInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\PolymorphismDemo\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\PolymorphismDemo\PolymorphismDemo\obj\Debug\net6.0\ref\PolymorphismDemo.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\PolymorphismDemo\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\PolymorphismDemo\PolymorphismDemo\obj\Debug\net6.0\PolymorphismDemo.genruntimeconfig.cache

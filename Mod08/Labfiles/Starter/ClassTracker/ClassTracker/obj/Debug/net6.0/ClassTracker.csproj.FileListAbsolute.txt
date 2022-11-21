@@ -1,0 +1,14 @@
+D:\Allfiles\Mod08\Labfiles\Starter\ClassTracker\ClassTracker\bin\Debug\net6.0\ClassTracker.exe
+D:\Allfiles\Mod08\Labfiles\Starter\ClassTracker\ClassTracker\bin\Debug\net6.0\ClassTracker.deps.json
+D:\Allfiles\Mod08\Labfiles\Starter\ClassTracker\ClassTracker\bin\Debug\net6.0\ClassTracker.runtimeconfig.json
+D:\Allfiles\Mod08\Labfiles\Starter\ClassTracker\ClassTracker\bin\Debug\net6.0\ClassTracker.dll
+D:\Allfiles\Mod08\Labfiles\Starter\ClassTracker\ClassTracker\bin\Debug\net6.0\ref\ClassTracker.dll
+D:\Allfiles\Mod08\Labfiles\Starter\ClassTracker\ClassTracker\bin\Debug\net6.0\ClassTracker.pdb
+D:\Allfiles\Mod08\Labfiles\Starter\ClassTracker\ClassTracker\obj\Debug\net6.0\ClassTracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Allfiles\Mod08\Labfiles\Starter\ClassTracker\ClassTracker\obj\Debug\net6.0\ClassTracker.AssemblyInfoInputs.cache
+D:\Allfiles\Mod08\Labfiles\Starter\ClassTracker\ClassTracker\obj\Debug\net6.0\ClassTracker.AssemblyInfo.cs
+D:\Allfiles\Mod08\Labfiles\Starter\ClassTracker\ClassTracker\obj\Debug\net6.0\ClassTracker.csproj.CoreCompileInputs.cache
+D:\Allfiles\Mod08\Labfiles\Starter\ClassTracker\ClassTracker\obj\Debug\net6.0\ClassTracker.dll
+D:\Allfiles\Mod08\Labfiles\Starter\ClassTracker\ClassTracker\obj\Debug\net6.0\ref\ClassTracker.dll
+D:\Allfiles\Mod08\Labfiles\Starter\ClassTracker\ClassTracker\obj\Debug\net6.0\ClassTracker.pdb
+D:\Allfiles\Mod08\Labfiles\Starter\ClassTracker\ClassTracker\obj\Debug\net6.0\ClassTracker.genruntimeconfig.cache

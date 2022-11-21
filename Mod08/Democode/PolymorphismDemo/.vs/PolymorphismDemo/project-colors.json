@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bd0b2fc3-b225-41c0-ad4e-ea1cf601ebcd": {
+      "ProjectGuid": "bd0b2fc3-b225-41c0-ad4e-ea1cf601ebcd",
+      "DisplayName": "PolymorphismDemo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

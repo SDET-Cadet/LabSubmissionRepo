@@ -1,0 +1,15 @@
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Labfiles\Solution\ClassTracker\ClassTracker\bin\Debug\net6.0\ClassTracker.exe
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Labfiles\Solution\ClassTracker\ClassTracker\bin\Debug\net6.0\ClassTracker.deps.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Labfiles\Solution\ClassTracker\ClassTracker\bin\Debug\net6.0\ClassTracker.runtimeconfig.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Labfiles\Solution\ClassTracker\ClassTracker\bin\Debug\net6.0\ClassTracker.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Labfiles\Solution\ClassTracker\ClassTracker\bin\Debug\net6.0\ref\ClassTracker.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Labfiles\Solution\ClassTracker\ClassTracker\bin\Debug\net6.0\ClassTracker.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Labfiles\Solution\ClassTracker\ClassTracker\obj\Debug\net6.0\ClassTracker.csproj.AssemblyReference.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Labfiles\Solution\ClassTracker\ClassTracker\obj\Debug\net6.0\ClassTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Labfiles\Solution\ClassTracker\ClassTracker\obj\Debug\net6.0\ClassTracker.AssemblyInfoInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Labfiles\Solution\ClassTracker\ClassTracker\obj\Debug\net6.0\ClassTracker.AssemblyInfo.cs
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Labfiles\Solution\ClassTracker\ClassTracker\obj\Debug\net6.0\ClassTracker.csproj.CoreCompileInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Labfiles\Solution\ClassTracker\ClassTracker\obj\Debug\net6.0\ClassTracker.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Labfiles\Solution\ClassTracker\ClassTracker\obj\Debug\net6.0\ref\ClassTracker.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Labfiles\Solution\ClassTracker\ClassTracker\obj\Debug\net6.0\ClassTracker.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Labfiles\Solution\ClassTracker\ClassTracker\obj\Debug\net6.0\ClassTracker.genruntimeconfig.cache

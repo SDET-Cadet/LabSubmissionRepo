@@ -1,0 +1,15 @@
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\InheritanceDemo\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.csproj.AssemblyReference.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\InheritanceDemo\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\InheritanceDemo\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\InheritanceDemo\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.AssemblyInfo.cs
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\InheritanceDemo\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\InheritanceDemo\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.exe
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\InheritanceDemo\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.deps.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\InheritanceDemo\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.runtimeconfig.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\InheritanceDemo\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\InheritanceDemo\InheritanceDemo\bin\Debug\net6.0\ref\InheritanceDemo.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\InheritanceDemo\InheritanceDemo\bin\Debug\net6.0\InheritanceDemo.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\InheritanceDemo\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\InheritanceDemo\InheritanceDemo\obj\Debug\net6.0\ref\InheritanceDemo.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\InheritanceDemo\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod07\Democode\InheritanceDemo\InheritanceDemo\obj\Debug\net6.0\InheritanceDemo.genruntimeconfig.cache
