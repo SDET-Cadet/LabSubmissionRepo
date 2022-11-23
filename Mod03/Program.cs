@@ -4,10 +4,10 @@
     {
         static void Main(string[] args)
         {
-            SetInstructorName("John Smith");
+            SetInstructorName("John Johnny");
             SetCourseTitle("CS 101");
             AddClass("CS 101", false, false, false);
-            DisplayReminders("Wednesday");
+            DisplayReminders("Sunday");
             CalculateAverage();
             CalculateAverageWithWhile();
         }
@@ -30,7 +30,6 @@
                 Console.WriteLine("Class name exceeds 50 characters, please shorten.");
             }
         }
-
         static bool ValidateCourseTitleLength(string title)
         {
             if (title.Length <= 50)
@@ -88,17 +87,20 @@
         static void CalculateAverage()
         {
             double[] grades = new double[] { 89, 98, 99, 90, 95 };
-            double average = 0.0;
-            double total = 0.0;
-            int gradeCounter;
 
-            for (gradeCounter = 0; gradeCounter < grades.Length; gradeCounter++)
+            static void CalculateAverage()
             {
-                total = total + grades[gradeCounter];
+                double[] grades = new double[] { 89, 98, 99, 90, 95 };
+                double average = 0.0;
+                double total = 0.0;
+                int gradeCounter;
+                for (gradeCounter = 0; gradeCounter < grades.Length; gradeCounter++)
+                {
+                    total = total + grades[gradeCounter];
+                }
+                average = total / gradeCounter;
+                Console.WriteLine("Grade average is " + average);
             }
-
-            average = total / gradeCounter;
-            Console.WriteLine("Grade average is " + average);
         }
 
         static void CalculateAverageWithWhile()
@@ -120,6 +122,11 @@
 
             var average = total / numberOfGrades;
             Console.WriteLine("Grade average is: " + average);
+
         }
+
+
+
+
     }
 }
