@@ -1,0 +1,44 @@
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Starter\Refactor\File_IO\bin\Debug\net6.0\File_IO.exe
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Starter\Refactor\File_IO\bin\Debug\net6.0\File_IO.deps.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Starter\Refactor\File_IO\bin\Debug\net6.0\File_IO.runtimeconfig.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Starter\Refactor\File_IO\bin\Debug\net6.0\File_IO.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Starter\Refactor\File_IO\bin\Debug\net6.0\ref\File_IO.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Starter\Refactor\File_IO\bin\Debug\net6.0\File_IO.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Starter\Refactor\File_IO\obj\Debug\net6.0\File_IO.csproj.AssemblyReference.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Starter\Refactor\File_IO\obj\Debug\net6.0\File_IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Starter\Refactor\File_IO\obj\Debug\net6.0\File_IO.AssemblyInfoInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Starter\Refactor\File_IO\obj\Debug\net6.0\File_IO.AssemblyInfo.cs
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Starter\Refactor\File_IO\obj\Debug\net6.0\File_IO.csproj.CoreCompileInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Starter\Refactor\File_IO\obj\Debug\net6.0\File_IO.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Starter\Refactor\File_IO\obj\Debug\net6.0\ref\File_IO.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Starter\Refactor\File_IO\obj\Debug\net6.0\File_IO.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Starter\Refactor\File_IO\obj\Debug\net6.0\File_IO.genruntimeconfig.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Solution\Refactor\File_IO\bin\Debug\net6.0\File_IO.exe
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Solution\Refactor\File_IO\bin\Debug\net6.0\File_IO.deps.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Solution\Refactor\File_IO\bin\Debug\net6.0\File_IO.runtimeconfig.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Solution\Refactor\File_IO\bin\Debug\net6.0\File_IO.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Solution\Refactor\File_IO\bin\Debug\net6.0\ref\File_IO.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Solution\Refactor\File_IO\bin\Debug\net6.0\File_IO.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Solution\Refactor\File_IO\obj\Debug\net6.0\File_IO.csproj.AssemblyReference.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Solution\Refactor\File_IO\obj\Debug\net6.0\File_IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Solution\Refactor\File_IO\obj\Debug\net6.0\File_IO.AssemblyInfoInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Solution\Refactor\File_IO\obj\Debug\net6.0\File_IO.AssemblyInfo.cs
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Solution\Refactor\File_IO\obj\Debug\net6.0\File_IO.csproj.CoreCompileInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Solution\Refactor\File_IO\obj\Debug\net6.0\File_IO.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Solution\Refactor\File_IO\obj\Debug\net6.0\ref\File_IO.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Solution\Refactor\File_IO\obj\Debug\net6.0\File_IO.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Labfiles\Solution\Refactor\File_IO\obj\Debug\net6.0\File_IO.genruntimeconfig.cache
+D:\MyRepo\LabSubmissionRepo\Mod10\File_IO\obj\Debug\net6.0\File_IO.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyRepo\LabSubmissionRepo\Mod10\File_IO\obj\Debug\net6.0\File_IO.AssemblyInfoInputs.cache
+D:\MyRepo\LabSubmissionRepo\Mod10\File_IO\obj\Debug\net6.0\File_IO.AssemblyInfo.cs
+D:\MyRepo\LabSubmissionRepo\Mod10\File_IO\obj\Debug\net6.0\File_IO.csproj.CoreCompileInputs.cache
+D:\MyRepo\LabSubmissionRepo\Mod10\File_IO\obj\Debug\net6.0\File_IO.dll
+D:\MyRepo\LabSubmissionRepo\Mod10\File_IO\obj\Debug\net6.0\ref\File_IO.dll
+D:\MyRepo\LabSubmissionRepo\Mod10\File_IO\obj\Debug\net6.0\File_IO.pdb
+D:\MyRepo\LabSubmissionRepo\Mod10\File_IO\bin\Debug\net6.0\File_IO.exe
+D:\MyRepo\LabSubmissionRepo\Mod10\File_IO\bin\Debug\net6.0\File_IO.deps.json
+D:\MyRepo\LabSubmissionRepo\Mod10\File_IO\bin\Debug\net6.0\File_IO.runtimeconfig.json
+D:\MyRepo\LabSubmissionRepo\Mod10\File_IO\bin\Debug\net6.0\File_IO.dll
+D:\MyRepo\LabSubmissionRepo\Mod10\File_IO\bin\Debug\net6.0\ref\File_IO.dll
+D:\MyRepo\LabSubmissionRepo\Mod10\File_IO\bin\Debug\net6.0\File_IO.pdb
+D:\MyRepo\LabSubmissionRepo\Mod10\File_IO\obj\Debug\net6.0\File_IO.genruntimeconfig.cache
