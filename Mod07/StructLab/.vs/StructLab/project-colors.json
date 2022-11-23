@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b3935d6f-f040-4ecb-9f38-b778eee88c82": {
+      "ProjectGuid": "b3935d6f-f040-4ecb-9f38-b778eee88c82",
+      "DisplayName": "StructLab",
+      "ColorIndex": 0
+    },
+    "7d4a169d-4763-4d8f-bc1d-e917694106db": {
+      "ProjectGuid": "7d4a169d-4763-4d8f-bc1d-e917694106db",
+      "DisplayName": "StructLab",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
