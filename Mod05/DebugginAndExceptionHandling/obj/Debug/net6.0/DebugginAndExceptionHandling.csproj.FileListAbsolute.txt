@@ -1,0 +1,30 @@
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\bin\Debug\net6.0\DebugginAndExceptionHandling.exe
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\bin\Debug\net6.0\DebugginAndExceptionHandling.deps.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\bin\Debug\net6.0\DebugginAndExceptionHandling.runtimeconfig.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\bin\Debug\net6.0\DebugginAndExceptionHandling.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\bin\Debug\net6.0\ref\DebugginAndExceptionHandling.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\bin\Debug\net6.0\DebugginAndExceptionHandling.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\obj\Debug\net6.0\DebugginAndExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\obj\Debug\net6.0\DebugginAndExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\obj\Debug\net6.0\DebugginAndExceptionHandling.AssemblyInfo.cs
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\obj\Debug\net6.0\DebugginAndExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\obj\Debug\net6.0\DebugginAndExceptionHandling.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\obj\Debug\net6.0\ref\DebugginAndExceptionHandling.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\obj\Debug\net6.0\DebugginAndExceptionHandling.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\obj\Debug\net6.0\DebugginAndExceptionHandling.genruntimeconfig.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\obj\Debug\net6.0\DebugginAndExceptionHandling.csproj.AssemblyReference.cache
+D:\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\bin\Debug\net6.0\DebugginAndExceptionHandling.exe
+D:\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\bin\Debug\net6.0\DebugginAndExceptionHandling.deps.json
+D:\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\bin\Debug\net6.0\DebugginAndExceptionHandling.runtimeconfig.json
+D:\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\bin\Debug\net6.0\DebugginAndExceptionHandling.dll
+D:\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\bin\Debug\net6.0\ref\DebugginAndExceptionHandling.dll
+D:\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\bin\Debug\net6.0\DebugginAndExceptionHandling.pdb
+D:\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\obj\Debug\net6.0\DebugginAndExceptionHandling.csproj.AssemblyReference.cache
+D:\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\obj\Debug\net6.0\DebugginAndExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\obj\Debug\net6.0\DebugginAndExceptionHandling.AssemblyInfoInputs.cache
+D:\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\obj\Debug\net6.0\DebugginAndExceptionHandling.AssemblyInfo.cs
+D:\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\obj\Debug\net6.0\DebugginAndExceptionHandling.csproj.CoreCompileInputs.cache
+D:\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\obj\Debug\net6.0\DebugginAndExceptionHandling.dll
+D:\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\obj\Debug\net6.0\ref\DebugginAndExceptionHandling.dll
+D:\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\obj\Debug\net6.0\DebugginAndExceptionHandling.pdb
+D:\Allfiles\Mod05\Labfiles\Solution\DebugginAndExceptionHandling\DebugginAndExceptionHandling\obj\Debug\net6.0\DebugginAndExceptionHandling.genruntimeconfig.cache
