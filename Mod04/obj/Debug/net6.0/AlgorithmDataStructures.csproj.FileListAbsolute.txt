@@ -1,0 +1,15 @@
+D:\Allfiles\Mod04\Labfiles\Starter\AlgorithmDataStructures\AlgorithmDataStructures\bin\Debug\net6.0\AlgorithmDataStructures.exe
+D:\Allfiles\Mod04\Labfiles\Starter\AlgorithmDataStructures\AlgorithmDataStructures\bin\Debug\net6.0\AlgorithmDataStructures.deps.json
+D:\Allfiles\Mod04\Labfiles\Starter\AlgorithmDataStructures\AlgorithmDataStructures\bin\Debug\net6.0\AlgorithmDataStructures.runtimeconfig.json
+D:\Allfiles\Mod04\Labfiles\Starter\AlgorithmDataStructures\AlgorithmDataStructures\bin\Debug\net6.0\AlgorithmDataStructures.dll
+D:\Allfiles\Mod04\Labfiles\Starter\AlgorithmDataStructures\AlgorithmDataStructures\bin\Debug\net6.0\ref\AlgorithmDataStructures.dll
+D:\Allfiles\Mod04\Labfiles\Starter\AlgorithmDataStructures\AlgorithmDataStructures\bin\Debug\net6.0\AlgorithmDataStructures.pdb
+D:\Allfiles\Mod04\Labfiles\Starter\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\net6.0\AlgorithmDataStructures.csproj.AssemblyReference.cache
+D:\Allfiles\Mod04\Labfiles\Starter\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\net6.0\AlgorithmDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+D:\Allfiles\Mod04\Labfiles\Starter\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\net6.0\AlgorithmDataStructures.AssemblyInfoInputs.cache
+D:\Allfiles\Mod04\Labfiles\Starter\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\net6.0\AlgorithmDataStructures.AssemblyInfo.cs
+D:\Allfiles\Mod04\Labfiles\Starter\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\net6.0\AlgorithmDataStructures.csproj.CoreCompileInputs.cache
+D:\Allfiles\Mod04\Labfiles\Starter\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\net6.0\AlgorithmDataStructures.dll
+D:\Allfiles\Mod04\Labfiles\Starter\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\net6.0\ref\AlgorithmDataStructures.dll
+D:\Allfiles\Mod04\Labfiles\Starter\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\net6.0\AlgorithmDataStructures.pdb
+D:\Allfiles\Mod04\Labfiles\Starter\AlgorithmDataStructures\AlgorithmDataStructures\obj\Debug\net6.0\AlgorithmDataStructures.genruntimeconfig.cache
