@@ -1,0 +1,15 @@
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Democode\Value_Reference_Demo\Value_Reference_Demo\bin\Debug\net6.0\Value_Reference_Demo.exe
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Democode\Value_Reference_Demo\Value_Reference_Demo\bin\Debug\net6.0\Value_Reference_Demo.deps.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Democode\Value_Reference_Demo\Value_Reference_Demo\bin\Debug\net6.0\Value_Reference_Demo.runtimeconfig.json
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Democode\Value_Reference_Demo\Value_Reference_Demo\bin\Debug\net6.0\Value_Reference_Demo.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Democode\Value_Reference_Demo\Value_Reference_Demo\bin\Debug\net6.0\ref\Value_Reference_Demo.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Democode\Value_Reference_Demo\Value_Reference_Demo\bin\Debug\net6.0\Value_Reference_Demo.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Democode\Value_Reference_Demo\Value_Reference_Demo\obj\Debug\net6.0\Value_Reference_Demo.csproj.AssemblyReference.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Democode\Value_Reference_Demo\Value_Reference_Demo\obj\Debug\net6.0\Value_Reference_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Democode\Value_Reference_Demo\Value_Reference_Demo\obj\Debug\net6.0\Value_Reference_Demo.AssemblyInfoInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Democode\Value_Reference_Demo\Value_Reference_Demo\obj\Debug\net6.0\Value_Reference_Demo.AssemblyInfo.cs
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Democode\Value_Reference_Demo\Value_Reference_Demo\obj\Debug\net6.0\Value_Reference_Demo.csproj.CoreCompileInputs.cache
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Democode\Value_Reference_Demo\Value_Reference_Demo\obj\Debug\net6.0\Value_Reference_Demo.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Democode\Value_Reference_Demo\Value_Reference_Demo\obj\Debug\net6.0\ref\Value_Reference_Demo.dll
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Democode\Value_Reference_Demo\Value_Reference_Demo\obj\Debug\net6.0\Value_Reference_Demo.pdb
+C:\Users\BillA\OneDrive - Flow Simulation Ltd\Training\godeploy\M70795\Allfiles\Mod10\Democode\Value_Reference_Demo\Value_Reference_Demo\obj\Debug\net6.0\Value_Reference_Demo.genruntimeconfig.cache

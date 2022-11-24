@@ -1,0 +1,15 @@
+D:\Allfiles\Mod09\Labfiles\Starter\Convert\Convert\bin\Debug\net6.0\Convert.exe
+D:\Allfiles\Mod09\Labfiles\Starter\Convert\Convert\bin\Debug\net6.0\Convert.deps.json
+D:\Allfiles\Mod09\Labfiles\Starter\Convert\Convert\bin\Debug\net6.0\Convert.runtimeconfig.json
+D:\Allfiles\Mod09\Labfiles\Starter\Convert\Convert\bin\Debug\net6.0\Convert.dll
+D:\Allfiles\Mod09\Labfiles\Starter\Convert\Convert\bin\Debug\net6.0\ref\Convert.dll
+D:\Allfiles\Mod09\Labfiles\Starter\Convert\Convert\bin\Debug\net6.0\Convert.pdb
+D:\Allfiles\Mod09\Labfiles\Starter\Convert\Convert\obj\Debug\net6.0\Convert.csproj.AssemblyReference.cache
+D:\Allfiles\Mod09\Labfiles\Starter\Convert\Convert\obj\Debug\net6.0\Convert.GeneratedMSBuildEditorConfig.editorconfig
+D:\Allfiles\Mod09\Labfiles\Starter\Convert\Convert\obj\Debug\net6.0\Convert.AssemblyInfoInputs.cache
+D:\Allfiles\Mod09\Labfiles\Starter\Convert\Convert\obj\Debug\net6.0\Convert.AssemblyInfo.cs
+D:\Allfiles\Mod09\Labfiles\Starter\Convert\Convert\obj\Debug\net6.0\Convert.csproj.CoreCompileInputs.cache
+D:\Allfiles\Mod09\Labfiles\Starter\Convert\Convert\obj\Debug\net6.0\Convert.dll
+D:\Allfiles\Mod09\Labfiles\Starter\Convert\Convert\obj\Debug\net6.0\ref\Convert.dll
+D:\Allfiles\Mod09\Labfiles\Starter\Convert\Convert\obj\Debug\net6.0\Convert.pdb
+D:\Allfiles\Mod09\Labfiles\Starter\Convert\Convert\obj\Debug\net6.0\Convert.genruntimeconfig.cache
